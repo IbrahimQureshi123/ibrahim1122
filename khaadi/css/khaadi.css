@@ -1,0 +1,182 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.top-bar {
+    background-color: #bca2d1;
+    margin-top: 22px;
+    height: 40px;
+}
+
+.alpha {
+    font-size: 18px !important;
+}
+
+.picsize {
+    height: 70px;
+}
+
+.main {
+    width: 100%;
+    height: 770px;
+    position: relative;
+    animation: slider 5s 2s linear infinite;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+
+}
+
+.setting1 {
+
+    height: 400px;
+    width: 500px;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px 4px;
+    transition: all 1s ;
+}
+.setting1:hover{
+    border-radius: 45%;
+    box-shadow:1px 5px 30px 10px ;
+    
+}
+
+
+.margien {
+    padding-left: 75px;
+}
+
+.hight-width {
+    height: 700px;
+    width: 992px;
+
+    margin-top: 40px;
+}
+
+.parent {
+
+    margin-left: 130px;
+    margin-top: 10px;
+}
+
+.img {
+    display: flex;
+    gap: 10px;
+}
+
+.setting {
+    height: 550px;
+    width: 350px;
+}
+
+.butn {
+    background-color: lightgray;
+}
+
+.button {
+    /* background-image: url(../khaddiasset/img.webp); */
+    display: flex;
+    flex-direction: column;
+}
+
+.ready {
+    display: flex;
+    gap: 10px;
+    margin-left: 30px;
+}
+.pics2 {
+    display: flex;
+    position: relative;
+    gap: 30px;
+}
+
+/* .ib{
+    position: absolute;
+} */
+.side {
+    margin-left: 180px;
+}
+.hight-width1 {
+    height: 700px;
+    width: 990px;
+    margin-left: 27px;
+}
+
+
+.button1 {
+    display: flex;
+    flex-direction: column;
+
+}
+.shhip-icon{
+
+    font-size: 30px;
+}
+.px{
+  padding-left: 340px;
+  display: flex;
+  align-items: center;
+  background-color: lightgray;
+  height: 100px;
+}
+
+/* swipper */
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  /* swipper */
+@keyframes  slider {
+    0%{
+        background-image: url("junaidjamshed.com/media/wysiwyg/online-edition.jpg");
+    }
+    35%{
+        background-image: url("https://www.junaidjamshed.com/media/weltpixel/owlcarouselslider/images/f/e/festive_men.jpg");
+    }
+    75%{
+        background-image: url("https://www.junaidjamshed.com/media/weltpixel/owlcarouselslider/images/w/o/women_3.jpg");
+    }
+    100%{
+        background-image: url("junaidjamshed.com/media/wysiwyg/online-edition.jpg");
+    }
+}

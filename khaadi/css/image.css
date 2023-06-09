@@ -1,0 +1,20 @@
+.hight{
+    height: 300px;
+    width: 315px;
+   
+    margin-left: 0px;
+    border: 5px solid black;
+    background-image: url("https://pk.khaadi.com/media/logo/stores/24/logo-khaadi.png") ;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    transition: all 1s  cubic-bezier(0.55, 0.82, 0.165, 1); 
+   
+   
+}
+.hight:hover{
+    background-image:url("https://pk.khaadi.com/media/catalog/product/w/c/wckt23121_blue_2.jpg?width=300&height=&canvas=300:&quality=95&bg-color=255,255,255&fit=bounds") ;
+    background-size: cover;
+   
+
+}
