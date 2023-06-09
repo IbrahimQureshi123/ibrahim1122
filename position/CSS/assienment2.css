@@ -1,0 +1,289 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.body {
+    background-color: black;
+    position: relative;
+}
+
+.main {
+    position: absolute;
+    height: 658px;
+    width: 937px;
+    background-color: white;
+    top: 34px;
+    left: 308px;
+}
+
+.main2 {
+    position: absolute;
+    height: 615px;
+    width: 875px;
+    top: 23px;
+    left: 31px;
+    background-color: white;
+    border: 2px solid black;
+}
+
+.main3 {
+    position: absolute;
+    height: 105px;
+    width: 872px;
+    background-color: maroon;
+}
+
+.in1 {
+    position: absolute;
+    height: 71px;
+    width: 81px;
+    top: 16px;
+    left: 772px;
+    background-color: burlywood;
+    border-radius: 6px;
+}
+
+.in2 {
+    position: absolute;
+    height: 71px;
+    width: 81px;
+    top: 16px;
+    left: 682px;
+    background-color: burlywood;
+    border-radius: 6px;
+}
+
+.in3 {
+    position: absolute;
+    height: 71px;
+    width: 81px;
+    top: 16px;
+    left: 592px;
+    background-color: burlywood;
+    border-radius: 6px;
+}
+
+.in4 {
+    position: absolute;
+    height: 71px;
+    width: 81px;
+    top: 16px;
+    left: 502px;
+    background-color: burlywood;
+    border-radius: 6px;
+}
+
+.main4 {
+    position: absolute;
+    height: 49px;
+    width: 872px;
+    background-color: black;
+    top: 105px;
+}
+
+.may1 {
+    position: absolute;
+    background-color: black;
+    color: white;
+    height: 48px;
+    width: 64px;
+    text-align: center;
+    padding: 15px;
+    font-size: large;
+}
+
+.may2 {
+    position: absolute;
+    background-color: black;
+    color: white;
+    height: 48px;
+    width: 64px;
+    left: 93px;
+    padding: 15px;
+    font-size: large;
+
+}
+
+.may3 {
+    position: absolute;
+    color: white;
+    top: 16px;
+    left: 197px;
+    font-size: large;
+}
+
+.may4 {
+    position: absolute;
+    color: white;
+    top: 16px;
+    left: 298px;
+    font-size: large;
+
+}
+
+.may5 {
+    position: absolute;
+    background-color: rgb(19, 36, 19);
+    height: 49px;
+    width: 390px;
+    left: 482px;
+}
+
+.may6 {
+    position: absolute;
+    background-color: aqua;
+    color: red;
+    height: 26px;
+    width: 225px;
+    top: 12px;
+    left: 626px;
+    font-size:22px;
+    text-align: center;
+    padding: 0px;
+    font-weight: bold;
+
+}
+
+.main5 {
+    position: absolute;
+    background-color: rgb(197, 167, 127);
+    height: 257px;
+    width: 872px;
+    top: 154px;
+
+}
+
+.may7 {
+    position: absolute;
+    height: 220px;
+    width: 822px;
+    background-color: black;
+    top: 20px;
+    left: 30px;
+}
+
+.may8 {
+    position: absolute;
+    background-color: rgb(7, 7, 255);
+    height: 42px;
+    width: 822px;
+    left: 30px;
+    top: 197px;
+}
+
+.may9 {
+    position: absolute;
+    background-color: rgb(255, 166, 0);
+    height: 34px;
+    width: 103px;
+    top: 153px;
+    left: 49px;
+    border-radius: 7px;
+}
+
+.may10 {
+    position: absolute;
+    background-color: rgb(255, 166, 0);
+    height: 34px;
+    width: 103px;
+    top: 153px;
+    left: 174px;
+    border-radius: 7px;
+}
+
+.may11 {
+    position: absolute;
+    background-color: white;
+    border: 2px solid black;
+    height: 185px;
+    width: 172px;
+    top: 30px;
+    left: 660px;
+    border-radius: 6px;
+}
+
+.may12 {
+    position: absolute;
+    background-color: white;
+    border: 2px solid black;
+    height: 185px;
+    width: 172px;
+    top: 48px;
+    left: 623px;
+    border-radius: 6px;
+}
+
+.main6 {
+    position: absolute;
+    height: 202px;
+    width: 447px;
+    top: 410px;
+    background-color: pink;
+
+}
+
+.may13 {
+    position: absolute;
+    top: 535px;
+    width: 337px;
+    height: 77px;
+    background-color: aqua;
+    left: 36px;
+
+}
+
+.may14 {
+    position: absolute;
+    height: 40px;
+    width: 359px;
+    background-color: rgb(49, 46, 46);
+    top: 431px;
+    left: 481px;
+
+}
+
+.may15 {
+    position: absolute;
+    color: white;
+    top: 440px;
+    left: 495px;
+    font-size: large;
+
+}
+
+.may16 {
+    position: absolute;
+    color: white;
+    top: 440px;
+    left: 572px;
+    font-size: large;
+
+}
+
+.may17 {
+    position: absolute;
+    color: white;
+    top: 440px;
+    left: 656px;
+    font-size: large;
+
+}
+
+.may18 {
+    position: absolute;
+    color: white;
+    top: 440px;
+    left: 756px;
+    font-size: large;
+}
+
+.main7 {
+    position: absolute;
+    height: 132px;
+    width: 359px;
+    background-color: aqua;
+    left: 481px;
+    top: 60px;
+}
